@@ -1,0 +1,18 @@
+img{
+  padding:50px;  
+}
+.flex{
+  display:flex;
+  justify-content:center;
+}
+body{
+  background:linear-gradient(to bottom, aqua, MidnightBlue)
+}
+h1{
+  text-align:center;
+}
+.sr{
+  margin-left:50px;
+  padding:15px;
+}
+
